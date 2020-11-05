@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.leftside {
+  width: 100%;
+  height: 100vh;
+  background: url(image/wedding-preparation.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.rightside {
+  width: 100%;
+  height: 100vh;
+  background: 	#F7CAC9;
+}
+
+.formcontainer{
+    border: 1px solid cornflowerblue;
+    width: auto;
+    height: auto;
+    padding: 30px;
+    background: cornflowerblue;
+}
+
+.bottom-space{
+    margin-bottom: 10px;
+}
+
+a{
+    color: #fff;
+}
+
+.title{
+    font-size: 60px;
+    font-weight: bold;
+    opacity: 1;
+}
+
+.subtitle{
+    font-size: 30px;
+}
+
+.optional{
+    color: red;
+}
+
+td{
+    padding: 10px;
+}
+
+.button-td{
+    text-align: right;
+}
+
+/* table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  } */
+
+.no-padding{
+    padding: 0 10px;
+}
+
+.move-to-left{
+    margin-left: 30px;
+}
+
+.bg-light{
+    color: black;
+}
+
+.test{
+    margin-top: 20px;
+    padding: 10px;
+}
+
+
